@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"Company_Logo1";1;"LOGO";;;
+2;"C1,C3,C4,C5,C6,C8,C9";"C_0603_1608Metric";7;"1U";;;
+3;"C2,C7,C10,C11";"C_0603_1608Metric";4;"100P";;;
+4;"H1,H2,H3,H4";"MountingHole_3.2mm_M3_Pad_Via";4;"MountingHole";;;
+5;"J1";"RJ45_Amphenol_RJMG1BD3B8K1ANR";1;"RJ45_Amphenol_RJMG1BD3B8K1ANR";;;
+6;"J2";"PinHeader_2x04_P2.54mm_Horizontal";1;"Conn_02x04_Counter_Clockwise";;;
+7;"R1,R2,R3,R4,R5,R6,R7";"R_0603_1608Metric";7;"1K";;;
+8;"R8";"R_0603_1608Metric";1;"0";;;
+9;"U1";"QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm";1;"ENC28J60x-ML";;;
+10;"Y1";"Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm";1;"Crystal_GND23";;;
